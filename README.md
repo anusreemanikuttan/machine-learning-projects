@@ -36,6 +36,5 @@ I'm building this repository as I learn more about Machine Learning. You'll find
 
 **Learning, experimenting, making mistakes, and getting better along the way.** 💻
 =======
-# machine-learning-projects
-A collection of machine learning algorithms, practice notebooks, experiments, and hands-on projects exploring concepts and techniques using Python.
+
 
