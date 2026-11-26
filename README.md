@@ -35,3 +35,7 @@ Some notebooks focus on understanding the basics, while others involve working w
 I'm building this repository as I learn more about Machine Learning. You'll find practice notebooks, experiments, model implementations, and projects that help me understand concepts beyond just theory.
 
 **Learning, experimenting, making mistakes, and getting better along the way.** 💻
+=======
+# machine-learning-projects
+A collection of machine learning algorithms, practice notebooks, experiments, and hands-on projects exploring concepts and techniques using Python.
+
